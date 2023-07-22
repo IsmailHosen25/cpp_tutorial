@@ -26,5 +26,4 @@ int main(){
    }
 
    cout<<"Sum of Multiple Number: "<<sum_of_Multiple_Number(arr,n)<<endl;
-
 }
